@@ -1,5 +1,13 @@
 # Aircraft Engine Remaining Useful Life (RUL) Prediction
 
+<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/146ead62-77fd-4704-a4f9-f5ad8bff01e6" />
+<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/5bb25167-90dc-4912-8a98-b653605cda7e" />
+<img width="1888" height="898" alt="image" src="https://github.com/user-attachments/assets/ecfc13bf-fd40-4cae-ba6a-5a1276ea8921" />
+<img width="1883" height="908" alt="image" src="https://github.com/user-attachments/assets/905ba5ed-bfa4-4318-bf4b-71c31160ae4d" />
+<img width="1847" height="846" alt="image" src="https://github.com/user-attachments/assets/2ff55425-8376-4b94-9cd0-f01be04b84d7" />
+
+
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
